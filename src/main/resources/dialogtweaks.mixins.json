@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "net.easecation.dialogtweaks.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "AbstractButtonMixin"
+  ]
+}
